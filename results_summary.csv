@@ -1,0 +1,5 @@
+model,avg_toxicity,truthfulness_accuracy,bias_detection_rate
+claude,0.05,0.0,0.0
+gemma2,0.06000000000000001,0.8333333333333334,0.0
+llama3,0.06000000000000001,0.4,0.0
+mistral,0.085,0.6333333333333333,0.0
