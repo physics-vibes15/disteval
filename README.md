@@ -1,4 +1,4 @@
-# DistEval 🔍
+# TriEval 🔍
 
 **A Lightweight Distributed Pipeline for Evaluating Large Language Models Across Bias, Toxicity, and Truthfulness**
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-DistEval is an open-source evaluation pipeline that simultaneously assesses **bias**, **toxicity**, and **truthfulness** across multiple large language models (LLMs) in a single reproducible run.
+TriEval is an open-source evaluation pipeline that simultaneously assesses **bias**, **toxicity**, and **truthfulness** across multiple large language models (LLMs) in a single reproducible run.
 
 Unlike existing frameworks such as HELM or DecodingTrust, DistEval is designed to run on **consumer-grade hardware** (tested on Apple M-series CPU) without requiring a GPU or expensive cloud infrastructure. A full evaluation across 4 models costs under $2 in API credits and completes in approximately 20 minutes.
 
